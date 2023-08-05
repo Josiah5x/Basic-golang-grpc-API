@@ -18,10 +18,10 @@ Next, go to your directory in terminal type below code
 go mod tidy
 ```
 Next: Run this command on the terminal
-```
-Server: go run main.go
-Client: go run client.go
-```
+
+>Server: go run main.go
+>Client: go run client.go
+
 ## Testing the API
 ### Addition
 ```
